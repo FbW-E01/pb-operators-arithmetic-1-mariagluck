@@ -1,3 +1,4 @@
+// 0. Declare two variables "snackServings" and "guests" and assign them number values.
 let snackServings = 20;
 
 let guests = 10;
@@ -5,21 +6,21 @@ let guests = 10;
 console.log(snackServings);
 console.log(guests);
 
-
+// 1. Add snackServings and guests.
 console.log(snackServings + guests);
 
-
+// 2. Subtract guests from snackServings. Then, subtract snackServings from guests.
 
 console.log(snackServings - guests);
 
-
+// 3. Multiply snackServings and guests.
 
 console.log(snackServings * guests);
 
-
+// 4. Divide snackServings by guests.
 console.log(snackServings / guests);
 
-
+// 5. Declare another variable "drinks" with value "10". Multiply snackServings and guests. Then, divide the result by drinks. Store the result in a new variable named "resultOne". Print "resultOne" to the console.
 const drinks = 10;
 console.log(drinks);
 
